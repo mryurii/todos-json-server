@@ -1,0 +1,12 @@
+{
+  "name": "todos-json-server",
+  "version": "1.0.0",
+  "description": "Die Taddy, die: json-server for todos.",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
